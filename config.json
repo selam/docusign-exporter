@@ -1,0 +1,18 @@
+{
+    "oauth": {
+            "integrator_key":    "XXXXXXXX-489c-4622-b743-XXXXXXXX",
+            "secret":           "XXXXXX-48e3-4226-adc5-XXXXXXXX",
+            "redir_url":         "http://localhost/",
+            "account_id":        "XXXXXXXX-4f00-47f5-8802-XXXXXXXX",
+            "extended_lifetime": true,
+            "is_demo":           true
+    },
+    "http": {
+        "port": 80,
+        "host": "0.0.0.0"
+    },
+    "application": {
+        "download_folder": "/tmp",
+        "downloader": 1
+    }
+}
